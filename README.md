@@ -2,6 +2,25 @@
 > I'm a Frontend developer in Iran
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
+---
+```javascript
+const thai = {
+  pronouns: "He" | "him",
+  langs: [Javascript, Typescript, HTML, CSS],
+  tools: [
+    React,
+    Redux,
+    Node,
+    Next,
+    Tailwind,
+    Styled - Components,
+  ],
+  architecture: [ "design system pattern"],
+
+
+};
+```
+
 - 🔭 I’m currently working on React.js
 
 - 🌱 I’m currently learning Next.js
