@@ -12,7 +12,7 @@
 - 📫 How to reach me: forntenddev.omid@gmail.com
 
 ---
-<h2>My tools 💪</h2>
+<h2>My skills 💪</h2>
 
 <div display= 'flex'>
  <img align="center" width='80px' src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" />
