@@ -1,4 +1,4 @@
-### Hi  I'm omid; 👋
+### Hi I'm omid; 👋
 
 
 - 🔭 I’m currently working on React.js
