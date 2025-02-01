@@ -6,7 +6,7 @@
 ```javascript
 const thai = {
   pronouns: "He" | "him",
-  langs: [Javascript, Typescript, HTML, CSS],
+  langs: [Javascript, Typescript, Node Js],
   tools: [
     React,
     Redux,
