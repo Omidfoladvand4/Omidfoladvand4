@@ -4,7 +4,7 @@
 
 ---
 ```javascript
-const thai = {
+const Omid = {
   pronouns: "He" | "him",
   langs: [Javascript, Typescript, Node Js],
   tools: [
