@@ -4,7 +4,7 @@
 
 ---
 ```javascript
-const Omid = {
+const OmidFoladvand = {
   pronouns: "He" | "him",
   langs: [Javascript, Typescript, Node Js],
   tools: [
