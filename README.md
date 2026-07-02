@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B132B,25:1C2541,50:3A506B,75:5BC0BE,100:6FFFE9&text=Omid%20Foladvand&fontColor=ffffff&fontSize=52&animation=twinkling&fontAlignY=38&desc=Junior%20Forntend%20Developer" alt="Header Banner" />
+</div>
+
 ### Hi I'm omid; 👋
 > I'm a Frontend developer from Iran
 <img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
